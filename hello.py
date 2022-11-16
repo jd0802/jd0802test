@@ -15,3 +15,4 @@ print(x)
 
 # direct edit with collab invite
 # direct edit after ssh clone
+# direct edit from terminal
